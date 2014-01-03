@@ -1,0 +1,23 @@
+.house, .player{
+  height:300px;
+  width: 900px;
+  border:2px solid;
+  margin: 20px auto;
+}
+
+#dealer_card, #player_card{
+  height:150px;
+  width: 100px;
+  border:2px solid;
+  float:left;
+  margin: 20px auto 0 70px;
+}
+
+
+.btn{
+  height: 30px;
+  width: 70px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px;
+  margin: 0 0 0 10px;
+}
